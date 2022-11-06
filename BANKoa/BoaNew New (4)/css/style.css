@@ -1,0 +1,21 @@
+[data-sparta-container] .spa-page-title.spa-page-title--has-flagscape.spa-page-title--red {
+    background-image: url(images/CSX345e7fd7.svg)
+}
+
+.spa-page-title.spa-page-title--has-flagscape.spa-page-title--crimson {
+    background-image: url(images/CSX37719e01.svg)
+}
+
+.spa-page-title.spa-page-title--has-flagscape.spa-page-title--gray {
+    background-image: url(images/CSXc1942577.svg)
+}
+
+.spa-page-title.spa-page-title--has-flagscape.spa-page-title--red-gradient::after {
+    background-image: url(imagesCSXa4e54b78.svg);
+    background-position: 50% center
+}
+
+.spa-page-title.spa-page-title--has-flagscape.spa-page-title--red-gradient::before {
+    background-image: url(images/CSXcf049265.svg);
+    background-position: 59% 28%
+}
